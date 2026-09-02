@@ -526,7 +526,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 streamlit run app.py
-
+```
 ---
 
 
@@ -550,10 +550,10 @@ Potential improvements for the project include:
 - Add automated model retraining as new transaction data becomes available.
 - Improve the Streamlit interface with richer customer analytics and visualizations.
 - Extend the application with customer-level insights and personalized business recommendations.
-
+```
 ```
 
-
+---
 ## 👨‍💻 Author
 
 ### Akhlaque Alam
