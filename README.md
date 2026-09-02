@@ -491,7 +491,6 @@ E-Commerce-Customer-Segmentation/
     ├── 05_tuned_model_comparison.png
     ├── 06_tuned_model_graph.png
     └── 07_customer_segment_distribution.png
-
 ---
 
 
