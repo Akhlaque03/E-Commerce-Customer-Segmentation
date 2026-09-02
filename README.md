@@ -550,8 +550,8 @@ Potential improvements for the project include:
 - Improve the Streamlit interface with richer customer analytics and visualizations.
 - Extend the application with customer-level insights and personalized business recommendations.
 
+```
 ---
-
 
 ## 👨‍💻 Author
 
