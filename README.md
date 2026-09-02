@@ -553,15 +553,28 @@ Potential improvements for the project include:
 ---
 
 
-## Author
+## 👨‍💻 Author
 
-**Akhlaque Alam**
+### Akhlaque Alam
 
-Data Science Enthusiast | Machine Learning | Python | SQL | Tableau
+**Aspiring Data Scientist | Python | SQL | Machine Learning | Data Analysis**
 
-🔗 **GitHub:** [akhlaque03](https://github.com/akhlaque03)
+I build practical machine learning solutions focused on real-world problems, model evaluation, customer analytics, and deployable data-driven applications.
 
-🔗 **LinkedIn:** [Akhlaque Alam](https://www.linkedin.com/)
+### Core Skills
+
+* Python
+* SQL
+* Machine Learning
+* Data Analysis & EDA
+* Data Visualization
+* Streamlit Deployment
+
+### 🔗 Connect With Me
+
+* **GitHub:** [Akhlaque03](https://github.com/Akhlaque03)
+* **LinkedIn:** [Akhlaque Alam](https://www.linkedin.com/in/akhlaque-alam-788a53410/)
+
 
 ---
 
