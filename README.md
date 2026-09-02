@@ -509,7 +509,7 @@ E-Commerce-Customer-Segmentation/
 | **Git & GitHub** | Version control and project hosting |
 | **Streamlit Community Cloud** | Application deployment |
 
----
+
 
 
 ## Installation & Local Setup
@@ -552,7 +552,7 @@ Potential improvements for the project include:
 - Extend the application with customer-level insights and personalized business recommendations.
 
 ```
----
+
 
 ## 👨‍💻 Author
 
